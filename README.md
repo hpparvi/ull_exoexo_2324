@@ -30,11 +30,11 @@ And you may still need to install some additional packages required by PyTransit
 First, you'll need to create a GitHub account (if you don't have one already) and email it to me  so that I can
 add you to the repo as a collaborator. Next, you'll need to clone the lab exercise repository from GitHub
 
-    git clone https://github.com/hpparvi/ull_exoexo_2021.git
+    git clone https://github.com/hpparvi/ull_exoexo_2022.git
 
 After which you can create your own git branch and do an initial push back to GitHub
 
-    cd ull_exoexo_2021
+    cd ull_exoexo_2022
     git branch aluxxxxxxxxxx
     git checkout aluxxxxxxxxxx
     git push --set-upstream origin aluxxxxxxxxxx
@@ -46,7 +46,7 @@ where `aluxxxxxxxxxx` is your student id.
 The exercises have been organised into two Jupyter notebooks. You'll need to start a Jupyter notebook
 server from the directory you cloned the repo into
 
-    cd ull_exoexo_2021
+    cd ull_exoexo_2022
     jupyter notebook
 
 After which you can open, edit, and run the notebooks.
