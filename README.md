@@ -1,8 +1,8 @@
-# Exoplanetas y Exobiologia 2020-2021</br>
+# Exoplanetas y Exobiologia 2021-2022</br>
 
 **[Dr. Hannu Parviainen](mailto:hannu@iac.es)**</br>
 **[Universidad de la Laguna](https://www.ull.es)**</br>
-**Last modified: 22.4.2021**
+**Last modified: 22.4.2022**
 
 ## Introduction
 
