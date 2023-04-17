@@ -9,7 +9,7 @@
 This git repository contains the lab exercises to the ULL Exoplanetas y Exobiologia course
 2022-2023. The exercises will teach you the basics of how to 
 
-- estimate the orbital period of an exoplanet together with its minimum planetary from a radial 
+- estimate the orbital period of an exoplanet together with its minimum mass from a radial 
   velocity signal,
 - estimate the exoplanet's radius and orbital properties from a transit light curve.
 
