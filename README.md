@@ -23,31 +23,29 @@ You need a working Python environment with Jupyter, and you need to install PyTr
 
     pip install pytransit 
 
-And you may still need to install some additional packages required by PyTransit.
+Also, a basic understanding of version control (and especially Git) is very useful. At minimum, 
+you should read Pro Git Book sections [1.1](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control), 
+[1.3](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F), 
+and [2.1](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository), and maybe also watch the
+[four videos describing the basics of version control and Git](https://git-scm.com/videos). 
 
 ## Setting up Git
 
-First, you'll need to create a GitHub account (if you don't have one already) and email it to me  so that I can
-add you to the repo as a collaborator. Next, you'll need to clone the lab exercise repository from GitHub
+First, you'll need to create a GitHub account and fork the lab exercise repository into your own account. Next, 
+you'll need to clone the lab exercise repository from your account in GitHub to your own computer
 
-    git clone https://github.com/hpparvi/ull_exoexo_2023.git
+    git clone https://github.com/YOUR_GITHUB_USERNAME/ull_exoexo_2324.git
 
 ## Exercises
 
 The exercises have been organised into two Jupyter notebooks. You'll need to start a Jupyter notebook
 server from the directory you cloned the repo into
 
-    cd ull_exoexo_2023
+    cd ull_exoexo_2324
     jupyter notebook
 
 After which you can open, edit, and run the notebooks.
 
 ## Returning the exercises
 
-### Option 1
-
-Send me your filled exercise notebooks as email attachments.
-
-### Option 2 (advanced, bonus)
-
-Fork the repository in GitHub instead of cloning it, clone the forked repository to your local computer, push the edited notebooks to your own fork in GitHub, and write to me when you're finished.
+Commit the changes in git, push the edited notebooks to your own fork in GitHub, and write to me that you're finished.
