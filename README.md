@@ -1,13 +1,13 @@
-# Exoplanetas y Exobiologia 2022-2023</br>
+# Exoplanetas y Exobiologia 2023-2024</br>
 
 **[Dr. Hannu Parviainen](mailto:hannu@iac.es)**</br>
 **[Universidad de la Laguna](https://www.ull.es)**</br>
-**Last modified: 16.4.2023**
+**Last modified: 28.4.2024**
 
 ## Introduction
 
 This git repository contains the lab exercises to the ULL Exoplanetas y Exobiologia course
-2022-2023. The exercises will teach you the basics of how to 
+2023-2024. The exercises will teach you the basics of how to 
 
 - estimate the orbital period of an exoplanet together with its minimum mass from a radial 
   velocity signal,
@@ -19,7 +19,7 @@ and [Jupyter notebooks](https://jupyter.org/).
 
 ## Prerequisites
 
-You'll need to install PyTransit 
+You need a working Python environment with Jupyter, and you need to install PyTransit 
 
     pip install pytransit 
 
@@ -50,4 +50,4 @@ Send me your filled exercise notebooks as email attachments.
 
 ### Option 2 (advanced, bonus)
 
-Fork the repository in GitHub instead of cloning it, clone the forked repository to your local computer, push the edited notebooks to your own fork in GitHub, and write me when you're finished.
+Fork the repository in GitHub instead of cloning it, clone the forked repository to your local computer, push the edited notebooks to your own fork in GitHub, and write to me when you're finished.
