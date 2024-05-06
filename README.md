@@ -48,4 +48,15 @@ After which you can open, edit, and run the notebooks.
 
 ## Returning the exercises
 
-Commit the changes in git, push the edited notebooks to your own fork in GitHub, and write to me that you're finished.
+First, commit the changes in git
+
+    git add 01_rv_analysis.ipynb 02_transit_analysis.ipynb
+    git commit -m 'Finished working with exercises.'
+
+Then push the changes to your fork in GitHub
+
+    git push origin
+
+And finally, write to me that you're finished.
+
+
